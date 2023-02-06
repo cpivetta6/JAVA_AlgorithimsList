@@ -4,6 +4,7 @@ public class TrieNode {
 
 	//Trie: It is a tree-like data structure used to store a collection of strings, where each node in the trie represents a single character in a word.
 	//It is used to efficiently search for words in a dictionary or to check if a given prefix is present in a set of strings.
+	/*
 	class TrieNode_ {
 		   TrieNode[] children = new TrieNode[26];
 		   boolean isEndOfWord;
@@ -28,6 +29,6 @@ public class TrieNode {
 		      node.isEndOfWord = true;
 		   }
 	
+}*/
 }
-
 

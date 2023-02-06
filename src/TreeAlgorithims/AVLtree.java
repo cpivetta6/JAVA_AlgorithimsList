@@ -7,7 +7,7 @@ public class AVLtree {
 	//This ensures that operations such as insert, delete, and search take O(log n) time, where n is the number of nodes in the tree.
 	
 }
-
+/*
 public TreeNode insert(TreeNode root, int key) {
 	   if (root == null) {
 	      return new TreeNode(key);
@@ -34,4 +34,4 @@ public TreeNode insert(TreeNode root, int key) {
 	   }
 	   root.height = 1 + Math.max(getHeight(root.left), getHeight(root.right));
 	   return root;
-	}
+	}*/
